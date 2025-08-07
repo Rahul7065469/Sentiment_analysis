@@ -1,41 +1,29 @@
-# Sentiment_analysis
 # Sentiment Analysis App
 
-## Overview
-This project is a Sentiment Analysis application that classifies movie reviews or comments as **positive** or **negative**. It demonstrates hands-on experience with:
+This is a web-based Sentiment Analysis application that predicts whether a movie review or comment expresses a **positive** or **negative** sentiment.
 
-- Text preprocessing to clean and prepare raw text data  
-- Applying multiple machine learning models and selecting the best one based on evaluation  
-- Creating an interactive frontend using [Streamlit](https://streamlit.io/) for user-friendly sentiment prediction  
-- Deploying the application with [Hugging Face](https://huggingface.co/) for easy access and sharing  
+The project showcases:
 
-## Features
-- Clean and preprocess input text for accurate analysis  
-- Load pre-trained vectorizer and classification model  
-- Real-time sentiment prediction displayed via an attractive and interactive UI  
+- Text preprocessing for natural language inputs
+- Training and evaluation of multiple machine learning models
+- Model deployment using [Hugging Face Spaces](https://huggingface.co/spaces)
+- A clean and interactive frontend built with [Streamlit](https://streamlit.io/)
 
-## Getting Started
+---
 
-### Prerequisites
-- Python 3.9 or higher  
-- pip (Python package installer)  
+### 🔗 Try the App
 
-### Installation
+👉 [Click here to launch the Sentiment Analysis App](https://huggingface.co/spaces/Rahul9971/Sentiment_Analysis).
 
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/sentiment-analysis-app.git
-    cd sentiment-analysis-app
-    ```
+---
 
-2. Install required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+### Built With
 
-### Running the App Locally
+- Python  
+- Scikit-learn  
+- Streamlit  
+- Hugging Face Spaces  
 
-Run the Streamlit app with:
+---
 
-```bash
-streamlit run src/streamlit_app.py
+Feel free to explore the code, test the app, and share your feedback!
