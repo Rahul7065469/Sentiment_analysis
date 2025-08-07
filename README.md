@@ -13,7 +13,7 @@ The project showcases:
 
 ### 🔗 Try the App
 
-👉 [Click here to launch the Sentiment Analysis App](https://huggingface.co/spaces/Rahul9971/Sentiment_Analysis).
+👉 [Click here to launch the Sentiment Analysis App](https://huggingface.co/spaces/Rahul9971/Sentiment_analysis).
 
 ---
 
