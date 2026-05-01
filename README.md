@@ -7,11 +7,11 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This project is a **Binary Sentiment Analysis** application that classifies text into **Positive** or **Negative** sentiment using machine learning techniques. The model achieves **93% accuracy** on the test set.
 
-### 🎯 Key Features
+###  Key Features
 
 - **Text Preprocessing Pipeline**: Punctuation removal, tokenization, stopword removal, stemming
 - **TF-IDF Vectorization**: Converts text into numerical features for ML models
@@ -22,7 +22,7 @@ This project is a **Binary Sentiment Analysis** application that classifies text
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Sentiment_analysis/
@@ -50,7 +50,7 @@ Sentiment_analysis/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -116,7 +116,7 @@ print(f"Sentiment: {sentiment}")
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 | Metric | Value |
 |--------|-------|
@@ -138,7 +138,7 @@ print(f"Sentiment: {sentiment}")
 
 ---
 
-## 🔗 Live Demo
+##  Live Demo
 
 👉 **[Try the Sentiment Analysis App](https://huggingface.co/spaces/Rahul9971/Sentiment_analysis)**
 
@@ -146,7 +146,7 @@ The interactive web app is deployed on Hugging Face Spaces using Streamlit.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python** — Programming language
 - **Pandas** — Data manipulation and analysis
@@ -157,7 +157,7 @@ The interactive web app is deployed on Hugging Face Spaces using Streamlit.
 
 ---
 
-## 📝 Model Details
+##  Model Details
 
 ### Algorithm
 - **Classifier**: Logistic Regression
@@ -173,7 +173,7 @@ The interactive web app is deployed on Hugging Face Spaces using Streamlit.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! To contribute:
 
@@ -192,13 +192,13 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 👤 Author
+##  Author
 
 **Rahul** — [GitHub Profile](https://github.com/Rahul7065469)
 
 ---
 
-## ⭐ Acknowledgments
+##  Acknowledgments
 
 - Inspired by NLP and sentiment analysis tutorials
 - Thanks to the scikit-learn and NLTK communities
@@ -206,7 +206,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 📞 Contact & Support
+##  Contact & Support
 
 If you have questions or suggestions, feel free to open an **Issue** or reach out!
 
